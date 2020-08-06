@@ -1,0 +1,1 @@
+from sistema_vendas.app import app
